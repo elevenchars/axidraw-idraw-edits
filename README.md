@@ -1,3 +1,7 @@
+# This fork is intended for use with the [iDraw plotter](https://uunatek.com/product/idraw/)
+
+The version of the drivers bundled with the iDraw (on the USB and online) is very old. My goal is to keep an up to date version of the Axidraw drivers with the required edits for the iDraw plotter.
+
 # AxiDraw
 
 The AxiDraw Extensions for Inkscape - Software to drive the AxiDraw drawing machine.
