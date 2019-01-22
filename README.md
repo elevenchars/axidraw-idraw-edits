@@ -4,7 +4,7 @@ The version of the drivers bundled with the iDraw (on the USB and online) is ver
 
 ## Current Status
 
-I have located the version of the AxiDraw software that this the iDraw software is based off of ([version 1.0.2](https://github.com/evil-mad/axidraw/releases/tag/v1.0.2)). Currently there are no plans to support the laser because I don't have the laser attachment and I have no way to test it. My current plans are to only change the paramaters that are different between the AxiDraw v1.0.2 and iDraw v1.0.2 and bring them up to the current release. I don't expect that I need to make a lot of changes considering that the current AxiDraw drivers work besides some significant scaling issues.
+I have located the version of the AxiDraw software that this the iDraw software is based off of ([version 1.0.2](https://github.com/evil-mad/axidraw/releases/tag/v1.0.2)). Currently there are no plans to support the laser because I don't have the laser attachment and I have no way to test it. My current plans are to only change the parameters that are different between the AxiDraw v1.0.2 and iDraw v1.0.2 and bring them up to the current release. I don't expect that I need to make a lot of changes considering that the current AxiDraw drivers work besides some significant scaling issues.
 
 # AxiDraw
 
