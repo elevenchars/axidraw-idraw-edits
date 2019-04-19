@@ -123,7 +123,7 @@ YTravel_V3A3 = 11.69     # AxiDraw V3/A3: Y Carriage travel in inches.          
 XTravel_V3XLX = 23.42    # AxiDraw V3 XLX: X Carriage travel in inches.                 Default: 595 mm = about 23.42 inches
 YTravel_V3XLX = 8.58     # AxiDraw V3 XLX: Y Carriage travel in inches.                 Default: 218 mm = about 8.58 inches
 
-NativeResFactor = 1016.0  # Motor resolution calculation factor, steps per inch, and used in conversions. Default: 1016.0
+NativeResFactor = 1270.0  # Motor resolution calculation factor, steps per inch, and used in conversions. Default: 1016.0
 # Note that resolution is defined along native (not X or Y) axes.
 # Resolution is NativeResFactor * sqrt(2) steps per inch in Low Resolution  (Approx 1437 steps per inch)
 #       and 2 * NativeResFactor * sqrt(2) steps per inch in High Resolution (Appxox 2874 steps per inch)
